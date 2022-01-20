@@ -1,6 +1,6 @@
 # python-challenge
-Python HW for NU bootcamp
-In this assigment we had two projects. PyPoll and PyBank.
+Python 
+We had two projects. PyPoll and PyBank.
 
 PyBank Instructions:
 
